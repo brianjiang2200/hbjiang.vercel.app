@@ -7,24 +7,19 @@ const FOOTER_LINKS = [
     icon: 'ri-mail-line'
   },
   {
-    title: 'Twitter',
-    url: 'https://twitter.com/zenorocha',
-    icon: 'ri-twitter-line'
-  },
-  {
     title: 'GitHub',
-    url: 'https://github.com/zenorocha',
-    icon: 'ri-github-line'
+    url: 'https://github.com/brianjiang2200',
+    icon: 'ri-github-line',
   },
   {
-    title: 'LinkedIn',
-    url: 'https://linkedin.com/in/zenorocha',
-    icon: 'ri-linkedin-line'
+    title: 'Linkedin',
+    url: 'https://linkedin.com/in/brian-jiang-a57846180',
+    icon: 'ri-linkedin-line',
   },
   {
-    title: 'Instagram',
-    url: 'https://instagram.com/zenorocha',
-    icon: 'ri-instagram-line'
+    title: 'Chess.com',
+    url: 'https://chess.com/member/jiangofett',
+    icon: 'ri-gamepad-line',
   }
 ];
 

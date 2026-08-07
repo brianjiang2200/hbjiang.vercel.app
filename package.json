@@ -1,8 +1,8 @@
 {
   "type": "module",
   "private": true,
-  "name": "zenorocha.com",
-  "version": "5.0.0",
+  "name": "hbjiang.vercel.app",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",

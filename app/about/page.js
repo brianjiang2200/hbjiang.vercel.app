@@ -4,24 +4,24 @@ import AboutClient from './AboutClient';
 export const metadata = {
   title: 'About',
   description:
-    "Zeno Rocha is a Brazilian creator and programmer. He currently lives in San Francisco, California, where he's the Founder & CEO at Resend. His lifelong appreciation for building software and sharing knowledge led him to speak in over 110 conferences worldwide. His passion for open source put him on the top 20 most active users on GitHub at age 22. Before moving to the US, Zeno developed multiple applications, mentored startups, and worked at major companies in Latin America, such as Globo and Petrobras.",
+    "Software Developer based in Toronto, Canada.",
   openGraph: {
-    title: 'About // Zeno Rocha',
+    title: 'About // Brian Jiang',
     description:
-      "Zeno Rocha is a Brazilian creator and programmer. He currently lives in San Francisco, California, where he's the Founder & CEO at Resend.",
-    url: 'https://zenorocha.com/about',
+      "Brian Jiang is a software developer, chess player, and cat enthusiast based in Toronto, Canada.",
+    url: 'https://hbjiang.vercel.app/about',
     images: ['/static/images/about-bw.jpg']
   }
 };
 
 export default function About() {
   const description =
-    "Zeno Rocha is a Brazilian creator and programmer. He currently lives in San Francisco, California, where he's the Founder & CEO at Resend. His lifelong appreciation for building software and sharing knowledge led him to speak in over 110 conferences worldwide. His passion for open source put him on the top 20 most active users on GitHub at age 22. Before moving to the US, Zeno developed multiple applications, mentored startups, and worked at major companies in Latin America, such as Globo and Petrobras.";
+    "Brian Jiang is a software developer, chess player, and cat enthusiast based in Toronto, Canada.";
 
   return (
     <Base
-      title="About // Zeno Rocha"
-      tagline="Create. Share. Repeat."
+      title="About // Brian Jiang"
+      tagline="About // Brian Jiang"
       primaryColor="pink"
       secondaryColor="purple"
     >

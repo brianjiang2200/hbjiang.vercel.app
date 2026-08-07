@@ -25,7 +25,7 @@ export default function AboutClient({ description }) {
         <div className="mt-0 w-auto md:w-84">
           <Image
             alt="Zeno"
-            src="/static/images/avatar.jpg"
+            src="/static/images/hbjiang-vancouver.jpg"
             width="336"
             height="336"
             placeholder="blur"
